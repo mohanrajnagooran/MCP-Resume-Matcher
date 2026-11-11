@@ -1,0 +1,18 @@
+Sarah Chen
+sarah.chen@example.com | +1 415 555 0142 | Remote
+
+SUMMARY
+Data scientist with 4 years of experience in machine learning and NLP; built RAG prototypes with LLMs.
+
+SKILLS
+Python, Pandas, NumPy, Scikit-learn, PyTorch, Machine Learning, NLP, LLM, RAG, Prompt Engineering,
+Chroma, SQL, Jupyter, GCP, Git
+
+EXPERIENCE
+Data Scientist, HealthLens (2022 - Present)
+- Fine-tuned transformer models with PyTorch; built a RAG assistant over clinical guidelines using Chroma.
+Junior Data Scientist, RetailIQ (2020 - 2022)
+- Demand forecasting models in scikit-learn; SQL pipelines on BigQuery (GCP).
+
+EDUCATION
+M.S. in Data Science, University of Washington, 2020

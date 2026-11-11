@@ -1,0 +1,18 @@
+Kavya Nair
+kavya.nair@example.com | +91 94440 98765 | Chennai, India
+
+SUMMARY
+Generative AI engineer with 5 years of Python experience; builds LangGraph agents and MCP tool servers.
+
+SKILLS
+Python, LangGraph, LangChain, LLM, RAG, Model Context Protocol, MCP, FastAPI, Docker, PostgreSQL, SQL,
+Pinecone, Prompt Engineering, AWS, Git, CI/CD
+
+EXPERIENCE
+GenAI Engineer, TalentWorks AI (2023 - Present)
+- Built a resume-screening agent with LangGraph and MCP servers for file and database access.
+Python Developer, DataNest (2020 - 2023)
+- FastAPI services on Docker; PostgreSQL; GitHub Actions CI/CD on AWS.
+
+EDUCATION
+B.Tech in Computer Science, SRM University, 2020

@@ -1,0 +1,17 @@
+Meera Iyer
+meera.iyer@example.com | +91 98765 43210 | Chennai, India
+
+SUMMARY
+Frontend developer with 3 years of experience creating responsive web applications.
+
+SKILLS
+JavaScript, TypeScript, React, Next.js, HTML, CSS, Tailwind, Figma, Git, Jest
+
+EXPERIENCE
+Frontend Developer, PixelCraft Studio (2022 - Present)
+- Built React and Next.js dashboards; component library with Storybook.
+Intern, WebNova (2021 - 2022)
+- Landing pages in HTML, CSS and JavaScript.
+
+EDUCATION
+B.Sc. in Computer Science, Madras Christian College, 2021

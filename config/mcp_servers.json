@@ -1,0 +1,23 @@
+{
+  "_comment": "Same 'mcpServers' shape used by Claude Desktop and other MCP hosts. Paths are relative to the project root.",
+  "mcpServers": {
+    "filesystem": {
+      "command": "python",
+      "args": ["filesystem_mcp_server.py", "--config", "config/filesystem_server.json", "--log-level", "WARNING"],
+      "stderr_log": "logs/filesystem_mcp.log",
+      "timeout": 60
+    },
+    "candidate_db": {
+      "command": "python",
+      "args": ["database_mcp_server.py", "--db", "data/candidates.db", "--log-level", "WARNING"],
+      "stderr_log": "logs/candidate_db_mcp.log",
+      "timeout": 30
+    },
+    "web_fetch": {
+      "_comment": "Optional third-party server. Enable it if you have uv installed: pip install uv",
+      "enabled": false,
+      "command": "uvx",
+      "args": ["mcp-server-fetch"]
+    }
+  }
+}

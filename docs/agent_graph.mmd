@@ -1,0 +1,39 @@
+---
+config:
+  flowchart:
+    curve: linear
+---
+graph TD;
+	__start__([<p>__start__</p>]):::first
+	discover_capabilities(discover_capabilities)
+	load_job(load_job)
+	discover_resumes(discover_resumes)
+	extract_resumes(extract_resumes)
+	parse_candidates(parse_candidates)
+	lookup_history(lookup_history)
+	score_candidates(score_candidates)
+	persist_results(persist_results)
+	write_report(write_report)
+	wait_for_resumes(wait_for_resumes)
+	__end__([<p>__end__</p>]):::last
+	__start__ --> discover_capabilities;
+	discover_capabilities --> load_job;
+	discover_resumes -.-> extract_resumes;
+	discover_resumes -.-> wait_for_resumes;
+	discover_resumes -.-> write_report;
+	extract_resumes --> parse_candidates;
+	load_job --> discover_resumes;
+	lookup_history --> score_candidates;
+	parse_candidates -.-> lookup_history;
+	parse_candidates -.-> score_candidates;
+	persist_results --> write_report;
+	score_candidates -.-> persist_results;
+	score_candidates -.-> write_report;
+	wait_for_resumes -.-> __end__;
+	wait_for_resumes -.-> extract_resumes;
+	write_report -.-> __end__;
+	write_report -.-> wait_for_resumes;
+	classDef default fill:#f2f0ff,line-height:1.2
+	classDef first fill-opacity:0
+	classDef last fill:#bfb6fc
+

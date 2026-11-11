@@ -1,0 +1,522 @@
+{
+  "generated_at": "2026-11-10T15:39:43+00:00",
+  "job": {
+    "title": "Senior Python AI Engineer",
+    "path": "jobs/senior_python_ai_engineer.md",
+    "min_years": 5
+  },
+  "requirements": {
+    "required": [
+      "Python (5+ years)",
+      "LangChain / LangGraph",
+      "LLM application development",
+      "RAG",
+      "FastAPI or Flask REST APIs",
+      "Docker",
+      "SQL / PostgreSQL",
+      "Git",
+      "CI/CD"
+    ],
+    "nice_to_have": [
+      "Model Context Protocol (MCP)",
+      "Kubernetes",
+      "AWS or GCP",
+      "Vector databases (FAISS, Pinecone, Chroma)",
+      "Prompt engineering",
+      "Machine learning",
+      "PyTorch"
+    ]
+  },
+  "run_id": "run_dcf1d77962",
+  "rounds": 1,
+  "summary": {
+    "screened": 6,
+    "errors": 1,
+    "shortlist": 1,
+    "review": 3,
+    "reject": 2
+  },
+  "scoring": {
+    "weights": {
+      "required": 55,
+      "nice_to_have": 20,
+      "experience": 20,
+      "education": 5
+    },
+    "thresholds": {
+      "shortlist": 75,
+      "review": 55
+    }
+  },
+  "rankings": [
+    {
+      "path": "resumes/priya_raman.pdf",
+      "name": "Priya Raman",
+      "email": "priya.raman@example.com",
+      "phone": "+91 98400 11223",
+      "years_experience": 7.0,
+      "skills": [
+        "aws",
+        "ci/cd",
+        "docker",
+        "faiss",
+        "fastapi",
+        "git",
+        "kubernetes",
+        "langchain",
+        "langgraph",
+        "llm",
+        "mcp",
+        "pinecone",
+        "postgresql",
+        "prompt engineering",
+        "python",
+        "pytorch",
+        "rag",
+        "sql",
+        "vector database"
+      ],
+      "education": {
+        "degree": "B.Tech",
+        "cs_related": true
+      },
+      "content_hash": "34dd0adbd5998c3908d36c5f853335c726b094034685f5b3f6bb6e8686acf3ca",
+      "history": {
+        "known": true,
+        "previous_matches": [
+          {
+            "run_id": "run_0bbb5a2f12",
+            "job_title": "Senior Python AI Engineer",
+            "score": 97.1,
+            "decision": "shortlist",
+            "created_at": "2026-11-10T15:39:42.100Z"
+          }
+        ]
+      },
+      "score": 97.1,
+      "decision": "shortlist",
+      "breakdown": {
+        "required": 55.0,
+        "nice_to_have": 17.1,
+        "experience": 20.0,
+        "education": 5.0
+      },
+      "matched_required": [
+        "Python (5+ years)",
+        "LangChain / LangGraph",
+        "LLM application development",
+        "RAG",
+        "FastAPI or Flask REST APIs",
+        "Docker",
+        "SQL / PostgreSQL",
+        "Git",
+        "CI/CD"
+      ],
+      "missing_required": [],
+      "matched_nice_to_have": [
+        "Model Context Protocol (MCP)",
+        "Kubernetes",
+        "AWS or GCP",
+        "Vector databases (FAISS, Pinecone, Chroma)",
+        "Prompt engineering",
+        "PyTorch"
+      ],
+      "rationale": "Meets 9/9 required and 6/7 nice-to-have skills; 7 yrs experience (needs 5+); degree: B.Tech.",
+      "round": 0,
+      "rank": 1
+    },
+    {
+      "path": "resumes/arjun_mehta.docx",
+      "name": "Arjun Mehta",
+      "email": "arjun.mehta@example.com",
+      "phone": "+91 99887 66554",
+      "years_experience": 6.0,
+      "skills": [
+        "ci/cd",
+        "django",
+        "docker",
+        "fastapi",
+        "flask",
+        "git",
+        "langchain",
+        "llm",
+        "mysql",
+        "postgresql",
+        "python",
+        "rest api"
+      ],
+      "education": {
+        "degree": "Beng",
+        "cs_related": true
+      },
+      "content_hash": "649bbabc8a2eadf7e9cba4213d0c47c9f55b9077aaa37c2713278f548d919b82",
+      "history": {
+        "known": true,
+        "previous_matches": [
+          {
+            "run_id": "run_0bbb5a2f12",
+            "job_title": "Senior Python AI Engineer",
+            "score": 73.9,
+            "decision": "review",
+            "created_at": "2026-11-10T15:39:42.100Z"
+          }
+        ]
+      },
+      "score": 73.9,
+      "decision": "review",
+      "breakdown": {
+        "required": 48.9,
+        "nice_to_have": 0.0,
+        "experience": 20.0,
+        "education": 5.0
+      },
+      "matched_required": [
+        "Python (5+ years)",
+        "LangChain / LangGraph",
+        "LLM application development",
+        "FastAPI or Flask REST APIs",
+        "Docker",
+        "SQL / PostgreSQL",
+        "Git",
+        "CI/CD"
+      ],
+      "missing_required": [
+        "RAG"
+      ],
+      "matched_nice_to_have": [],
+      "rationale": "Meets 8/9 required and 0/7 nice-to-have skills; 6 yrs experience (needs 5+); degree: Beng.",
+      "round": 0,
+      "rank": 2
+    },
+    {
+      "path": "resumes/sarah_chen.txt",
+      "name": "Sarah Chen",
+      "email": "sarah.chen@example.com",
+      "phone": "+1 415 555 0142",
+      "years_experience": 4.0,
+      "skills": [
+        "chroma",
+        "gcp",
+        "git",
+        "llm",
+        "machine learning",
+        "nlp",
+        "pandas",
+        "prompt engineering",
+        "python",
+        "pytorch",
+        "rag",
+        "sql",
+        "vector database"
+      ],
+      "education": {
+        "degree": "M.S.",
+        "cs_related": true
+      },
+      "content_hash": "30c66b9a9fec2ddfcc12af11d622151863a85ff8e78f911e8ac3a75727de56ec",
+      "history": {
+        "known": true,
+        "previous_matches": [
+          {
+            "run_id": "run_0bbb5a2f12",
+            "job_title": "Senior Python AI Engineer",
+            "score": 65.9,
+            "decision": "review",
+            "created_at": "2026-11-10T15:39:42.100Z"
+          }
+        ]
+      },
+      "score": 65.9,
+      "decision": "review",
+      "breakdown": {
+        "required": 30.6,
+        "nice_to_have": 14.3,
+        "experience": 16.0,
+        "education": 5.0
+      },
+      "matched_required": [
+        "Python (5+ years)",
+        "LLM application development",
+        "RAG",
+        "SQL / PostgreSQL",
+        "Git"
+      ],
+      "missing_required": [
+        "LangChain / LangGraph",
+        "FastAPI or Flask REST APIs",
+        "Docker",
+        "CI/CD"
+      ],
+      "matched_nice_to_have": [
+        "AWS or GCP",
+        "Vector databases (FAISS, Pinecone, Chroma)",
+        "Prompt engineering",
+        "Machine learning",
+        "PyTorch"
+      ],
+      "rationale": "Meets 5/9 required and 5/7 nice-to-have skills; 4 yrs experience (needs 5+); degree: M.S..",
+      "round": 0,
+      "rank": 3
+    },
+    {
+      "path": "resumes/david_okafor.pdf",
+      "name": "David Okafor",
+      "email": "david.okafor@example.com",
+      "phone": "+44 20 7946 0958",
+      "years_experience": 6.0,
+      "skills": [
+        "aws",
+        "ci/cd",
+        "docker",
+        "gcp",
+        "git",
+        "kubernetes",
+        "linux",
+        "postgresql",
+        "python",
+        "sql",
+        "terraform"
+      ],
+      "education": {
+        "degree": "B.Eng",
+        "cs_related": true
+      },
+      "content_hash": "13632a62f2a3b884dc4224cc5081b34cca703fd6a8ac45c667ab084cfd9a03a1",
+      "history": {
+        "known": true,
+        "previous_matches": [
+          {
+            "run_id": "run_0bbb5a2f12",
+            "job_title": "Senior Python AI Engineer",
+            "score": 61.3,
+            "decision": "review",
+            "created_at": "2026-11-10T15:39:42.100Z"
+          }
+        ]
+      },
+      "score": 61.3,
+      "decision": "review",
+      "breakdown": {
+        "required": 30.6,
+        "nice_to_have": 5.7,
+        "experience": 20.0,
+        "education": 5.0
+      },
+      "matched_required": [
+        "Python (5+ years)",
+        "Docker",
+        "SQL / PostgreSQL",
+        "Git",
+        "CI/CD"
+      ],
+      "missing_required": [
+        "LangChain / LangGraph",
+        "LLM application development",
+        "RAG",
+        "FastAPI or Flask REST APIs"
+      ],
+      "matched_nice_to_have": [
+        "Kubernetes",
+        "AWS or GCP"
+      ],
+      "rationale": "Meets 5/9 required and 2/7 nice-to-have skills; 6 yrs experience (needs 5+); degree: B.Eng.",
+      "round": 0,
+      "rank": 4
+    },
+    {
+      "path": "resumes/rahul_verma.md",
+      "name": "Rahul Verma",
+      "email": "rahul.verma@example.com",
+      "phone": "+91 90000 12345",
+      "years_experience": 8.0,
+      "skills": [
+        "ci/cd",
+        "docker",
+        "git",
+        "java",
+        "spring boot",
+        "sql"
+      ],
+      "education": {
+        "degree": "B.Tech",
+        "cs_related": true
+      },
+      "content_hash": "ff6fa4cdf452d2d59df9dc5e753900501c4505fee29418ee34d1b5482c18d8ef",
+      "history": {
+        "known": true,
+        "previous_matches": [
+          {
+            "run_id": "run_0bbb5a2f12",
+            "job_title": "Senior Python AI Engineer",
+            "score": 49.4,
+            "decision": "reject",
+            "created_at": "2026-11-10T15:39:42.100Z"
+          }
+        ]
+      },
+      "score": 49.4,
+      "decision": "reject",
+      "breakdown": {
+        "required": 24.4,
+        "nice_to_have": 0.0,
+        "experience": 20.0,
+        "education": 5.0
+      },
+      "matched_required": [
+        "Docker",
+        "SQL / PostgreSQL",
+        "Git",
+        "CI/CD"
+      ],
+      "missing_required": [
+        "Python (5+ years)",
+        "LangChain / LangGraph",
+        "LLM application development",
+        "RAG",
+        "FastAPI or Flask REST APIs"
+      ],
+      "matched_nice_to_have": [],
+      "rationale": "Meets 4/9 required and 0/7 nice-to-have skills; 8 yrs experience (needs 5+); degree: B.Tech.",
+      "round": 0,
+      "rank": 5
+    },
+    {
+      "path": "resumes/meera_iyer.txt",
+      "name": "Meera Iyer",
+      "email": "meera.iyer@example.com",
+      "phone": "+91 98765 43210",
+      "years_experience": 3.0,
+      "skills": [
+        "git",
+        "javascript",
+        "react",
+        "typescript"
+      ],
+      "education": {
+        "degree": "B.Sc",
+        "cs_related": true
+      },
+      "content_hash": "ec41c0859496c01ffbf9b68aa72390ae89ff16a3d98ea55081ed0b357e9ed735",
+      "history": {
+        "known": true,
+        "previous_matches": [
+          {
+            "run_id": "run_0bbb5a2f12",
+            "job_title": "Senior Python AI Engineer",
+            "score": 23.1,
+            "decision": "reject",
+            "created_at": "2026-11-10T15:39:42.100Z"
+          }
+        ]
+      },
+      "score": 23.1,
+      "decision": "reject",
+      "breakdown": {
+        "required": 6.1,
+        "nice_to_have": 0.0,
+        "experience": 12.0,
+        "education": 5.0
+      },
+      "matched_required": [
+        "Git"
+      ],
+      "missing_required": [
+        "Python (5+ years)",
+        "LangChain / LangGraph",
+        "LLM application development",
+        "RAG",
+        "FastAPI or Flask REST APIs",
+        "Docker",
+        "SQL / PostgreSQL",
+        "CI/CD"
+      ],
+      "matched_nice_to_have": [],
+      "rationale": "Meets 1/9 required and 0/7 nice-to-have skills; 3 yrs experience (needs 5+); degree: B.Sc.",
+      "round": 0,
+      "rank": 6
+    }
+  ],
+  "errors": [
+    {
+      "path": "resumes/corrupted_upload.pdf",
+      "stage": "extract",
+      "type": "EXTRACTION_FAILED",
+      "message": "Could not extract text: Stream has ended unexpectedly"
+    }
+  ],
+  "mcp": {
+    "servers": {
+      "filesystem": {
+        "name": "resume-filesystem-mcp",
+        "version": "2.0.0"
+      },
+      "candidate_db": {
+        "name": "candidate-db-mcp",
+        "version": "1.0.0"
+      }
+    },
+    "calls": 12,
+    "call_log": [
+      {
+        "tool": "filesystem.extract_text",
+        "ms": 4.3,
+        "status": "ok"
+      },
+      {
+        "tool": "candidate_db.start_run",
+        "ms": 9.1,
+        "status": "ok"
+      },
+      {
+        "tool": "filesystem.list_files",
+        "ms": 1.8,
+        "status": "ok"
+      },
+      {
+        "tool": "filesystem.batch_process",
+        "ms": 164.9,
+        "status": "ok"
+      },
+      {
+        "tool": "candidate_db.candidate_history",
+        "ms": 1.3,
+        "status": "ok"
+      },
+      {
+        "tool": "candidate_db.upsert_candidate",
+        "ms": 2.4,
+        "status": "ok"
+      },
+      {
+        "tool": "candidate_db.upsert_candidate",
+        "ms": 1.6,
+        "status": "ok"
+      },
+      {
+        "tool": "candidate_db.upsert_candidate",
+        "ms": 1.7,
+        "status": "ok"
+      },
+      {
+        "tool": "candidate_db.upsert_candidate",
+        "ms": 1.8,
+        "status": "ok"
+      },
+      {
+        "tool": "candidate_db.upsert_candidate",
+        "ms": 2.0,
+        "status": "ok"
+      },
+      {
+        "tool": "candidate_db.upsert_candidate",
+        "ms": 1.6,
+        "status": "ok"
+      },
+      {
+        "tool": "candidate_db.record_matches",
+        "ms": 1.6,
+        "status": "ok"
+      }
+    ]
+  }
+}

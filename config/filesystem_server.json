@@ -1,0 +1,18 @@
+{
+  "_comment": "Paths are relative to this file. Only 'output' is writable.",
+  "roots": {
+    "resumes": {"path": "../data/resumes", "writable": false, "description": "Candidate resumes (input)"},
+    "jobs":    {"path": "../data/jobs",    "writable": false, "description": "Job descriptions (input)"},
+    "output":  {"path": "../output",       "writable": true,  "description": "Match reports (output)"}
+  },
+  "allowed_extensions": [".txt", ".md", ".pdf", ".docx", ".json", ".csv"],
+  "max_file_size_mb": 10,
+  "max_read_chars": 200000,
+  "batch_max_workers": 4,
+  "batch_max_files": 500,
+  "watch_poll_interval_s": 1.0,
+  "watch_max_events": 1000,
+  "watch_max_active": 10,
+  "page_size": 50,
+  "log_level": "info"
+}
